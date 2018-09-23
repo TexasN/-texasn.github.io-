@@ -49,6 +49,7 @@ nav:
  writing: "root_url/writing/"
  gallery: "root_url/gallery/"
  about: "root_url/about/"
+ links: "root_url/links/"
 
 
 # Server
