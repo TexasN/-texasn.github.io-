@@ -14,7 +14,7 @@ assets:
   owner: assets/owner
 logo: logo.png
 discus_shortname: MyDarkPoets
-email: mad@ness.com
+email: TheDarkThatBefell@.com
 url: "https://texasn.github.io"
 search: true
 share: true
@@ -31,17 +31,17 @@ owner:
   name:   Texas Nelson
   avatar: avatar.jpg
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    MAD for Jekyll
+  description:    The Dark That Befell Jekyll
 
 # Social networking links used in footer. Update and remove as you like.
 twitter_username: 4ChasmsLow
 linkedin_username: in/texas-nelson-003021144/
-facebook_username: MAD4Jekyll
-github_username: MAD4Jekyll
-deviantart_username: MAD4Jekyll
-500px_username: MAD4Jekyll
-flickr_username: MAD4Jekyll
-instagram_username: MAD4Jekyll
+facebook_username: TheDarkThatBefell
+github_username: TheDarkThatBefell
+deviantart_username: TheDarkThatBefell
+500px_username: TheDarkThatBefell
+flickr_username: TheDarkThatBefell
+instagram_username: TheDarkThatBefell
 
  
 # Internal nav
