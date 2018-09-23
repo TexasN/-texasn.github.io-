@@ -1,6 +1,10 @@
 # Site settings
 title: "My Dark Poets"
+author: Academia Student
+email: you-email@domain.com
 description: A Template for Jekyll
+twitter_username: 4ChasmsLow
+github_username: TexasN
 
 # Files
 baseurl:
